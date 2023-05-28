@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+     }
+  img {
+    height: 300px; 
+    width: 150px;  
+  }
+  .header{
+    height: 250px;
+    text-align: center;
+   background-image: url("https://img.brickowl.com/files/image_cache/larger/lego-pearl-gold-sword-with-square-guard-and-capped-pommel-shamshir-21459-28-7566-120.jpg");
+   background-size: 400px;
+   margin: 0;
+   padding: 20px;
+  }
+  .header h1 {
+    font-size: 50px;
+  }
+  .header p {
+    font-size: 30px;
+  }
